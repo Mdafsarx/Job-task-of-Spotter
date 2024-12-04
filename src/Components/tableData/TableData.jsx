@@ -32,18 +32,18 @@ export default function TableData() {
 
 
   return (
-    <div className="max-w-5xl mx-auto my-20 space-y-8">
+    <div className="max-w-5xl mx-auto my-20 space-y-8 px-6 md:px-4 xl:px-0">
 
       <div className="text-center space-y-1">
         <h3 className="font-bold uppercase text-lg">Flight Search Results</h3>
-        <p>Explore available flights with detailed information on <br /> airlines, prices, and durations to find your perfect journey.</p>
+        <p className="text-balance hidden md:block">Explore available flights with detailed information on <br /> airlines, prices, and durations to find your perfect journey.</p>
       </div>
 
       <div className="flex justify-end">
         <select onChange={(e) => {
           setCountry(e.target.value);
           refetch();
-        }} className="select select-bordered w-full max-w-40">
+        }} className="select select-bordered select-sm md:select-md w-full max-w-40">
           <option disabled selected>Country</option>
           <option>Bangladesh</option>
           <option>India</option>
