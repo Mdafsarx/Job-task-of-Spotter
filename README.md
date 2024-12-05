@@ -2,6 +2,9 @@
 ## Live Site
 - live site [here](https://spotter-task.vercel.app)
 
+## Project Presentation
+- live site [here](https://spotter-task.vercel.app)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
