@@ -1,9 +1,9 @@
 # Jetify 
 ## Live Site
-- live site [here](https://spotter-task.vercel.app)
+- [live site](https://spotter-task.vercel.app)
 
 ## Project Presentation
-- live site [here](https://spotter-task.vercel.app)
+- [presentation](https://spotter-task.vercel.app)
 
 ## Getting Started
 
